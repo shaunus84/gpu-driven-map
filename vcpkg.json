@@ -1,0 +1,12 @@
+{
+  "name": "gpu-driven-map",
+  "version-string": "0.1",
+  "dependencies": [
+    "sdl2",
+    "bgfx",
+    "stb",
+	"tomlplusplus",
+	"joltphysics",
+	"cli11"
+  ]
+}
